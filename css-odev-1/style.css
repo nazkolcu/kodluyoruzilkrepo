@@ -1,0 +1,32 @@
+.header{
+    font-family: "Calibri Light";
+    font-size: 30px;
+    text-align: center;
+    margin-bottom:0px;
+}
+body{
+    background-color: #f6dff6;
+}
+a{
+    font-family: "Calibri Light";
+    color: #970fb4;
+    align-items: center;
+}
+
+p
+{text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    align-content: center;
+    font-family: "Calibri Light";}
+
+#quote{
+    font-style: italic;
+}
+
+li{
+    font-family: "Calibri Light";
+}
+strong{
+    font-family: "Calibri Light";
+}
