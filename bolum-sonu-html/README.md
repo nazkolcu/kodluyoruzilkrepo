@@ -1,0 +1,1 @@
+Bölüm sonunda bulunan [video 1](https://www.youtube.com/watch?v=hLixmw3Qhds) ve  [video 2](https://www.youtube.com/watch?v=AgUa1cMUEVk) 'deki çalışmaları içerir.
